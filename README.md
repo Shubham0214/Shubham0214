@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA using C++ and Web development**
 
-- 📝 I regularly write articles on [https://www.blogger.com/u/1/blog/posts/6633293792891187818?hl=en-GB&tab=jj](https://www.blogger.com/u/1/blog/posts/6633293792891187818?hl=en-GB&tab=jj)
+- 📝 I regularly write articles on [https://informedsphere.com]
 
 - 📫 How to reach me **shubhedu0112@gmail.com**
 
